@@ -1,0 +1,15 @@
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\obj\Debug\net6.0\starbucks.csproj.AssemblyReference.cache
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\obj\Debug\net6.0\starbucks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\obj\Debug\net6.0\starbucks.AssemblyInfoInputs.cache
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\obj\Debug\net6.0\starbucks.AssemblyInfo.cs
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\obj\Debug\net6.0\starbucks.csproj.CoreCompileInputs.cache
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\bin\Debug\net6.0\starbucks.exe
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\bin\Debug\net6.0\starbucks.deps.json
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\bin\Debug\net6.0\starbucks.runtimeconfig.json
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\bin\Debug\net6.0\starbucks.dll
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\bin\Debug\net6.0\starbucks.pdb
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\obj\Debug\net6.0\starbucks.dll
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\obj\Debug\net6.0\refint\starbucks.dll
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\obj\Debug\net6.0\starbucks.pdb
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\obj\Debug\net6.0\starbucks.genruntimeconfig.cache
+C:\Users\rchad\OneDrive\Desktop\2nd Sem\Data Structure\workspace\starbucks\starbucks\obj\Debug\net6.0\ref\starbucks.dll
